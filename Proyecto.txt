@@ -1,0 +1,24 @@
+1-Inicio
+2-Agregar bucle While-Do (
+3-Declaracion de Variale:
+  NuevaNota = Caracter
+4-Declaracion de variable:
+  Eleccion = 0
+5-Declaracion de Variable:
+  Nota = 0
+6-Declaracion de Variable:
+  NotaNumerica = 0
+7-Declaracion de Variable:
+  Reiniciar = 0
+8-Agregar bucle While-Do (
+9-Un bucle while en donde  1 <= Nota and Nota <=20 
+10-Si no es asi Escribir "El número " + Nota + " ingresado no se encuentra entre 20 – 1 que es el rango de notas permitido. Inténtelo nuevamente")
+11-Agregar Bucle while-Do(
+12-Un bucle whilw en donde Eleccion = 1 or Eleccion = 2
+13-Si no es asi escribir "El número " + Eleccion + " digitado no se encuentra entre la opciones disponibles. Inténtalo nuevamente")
+14-Agregar seleccion donde eleccion es = 1 ó 2
+15-Si Eleccion es = 1 agregar seleccion( 
+16-Seleccion donde Nota =19 or Nota =20 
+17-Entoces su NuevaNota = A
+18-De lo contrario agregue otra seleccion 
+19-Seleccion donde Nota =16 or Nota =18 or Nota =17
